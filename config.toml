@@ -1,0 +1,30 @@
+baseURL = 'https://brett.ohland.ca'
+languageCode = 'en-ca'
+title = 'brett.ohland.ca'
+theme = "hallo-hugo"
+
+[Author]
+    name = "brett ohland (he/him) 🏳️‍🌈"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/brettohland"
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/bretto"
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://linkedin.com/in/brettohland"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:hello@brettohland.com"
+    [params.colors]
+        background = "#4ECDC4"
+        foreground = "#edf7ff"
+        hover = "#C44D58"
