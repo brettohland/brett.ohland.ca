@@ -24,6 +24,10 @@ theme = "hallo-hugo"
         icon = "envelope"
         title = "E-mail"
         url = "mailto:hello@brettohland.com"
+    [[params.links]]
+        icon = "keybase"
+        title = "Keybase"
+        url = "https://keybase.io/bretto"
     [params.colors]
         background = "#4ECDC4"
         foreground = "#edf7ff"
